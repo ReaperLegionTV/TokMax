@@ -1,0 +1,5 @@
+{
+  "name": "TokMax - Viral TikTok Optimizer",
+  "description": "AI-powered assistant to optimize TikTok videos. Generate viral hooks, captions, hashtags, SEO keywords, and get a virality score prediction using Gemini 2.5.",
+  "requestFramePermissions": []
+}
